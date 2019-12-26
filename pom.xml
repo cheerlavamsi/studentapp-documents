@@ -6,9 +6,9 @@
   <packaging>war</packaging>
 
   <scm>
-   <connection>scm:git:https://${GIT_USR}:${GIT_PSW}@https://github.com/cheerlavamsi/studentapp-documents.git</connection>
-   <url>scm:git:https://${GIT_USR}:${GIT_PSW}@https://github.com/cheerlavamsi/studentapp-documents.git</url>
-   <developerConnection>scm:git:https://${GIT_USR}:${GIT_PSW}@https://github.com/cheerlavamsi/studentapp-documents.git</developerConnection>
+   <connection>scm:git:https://${git_USR}:${git_PSW}@https://github.com/cheerlavamsi/studentapp-documents.git</connection>
+   <url>scm:git:https://${git_USR}:${git_PSW}@https://github.com/cheerlavamsi/studentapp-documents.git</url>
+   <developerConnection>scm:git:https://${git_USR}:${git_PSW}@https://github.com/cheerlavamsi/studentapp-documents.git</developerConnection>
     <tag>studentapp-1.0</tag>
   </scm>   
 
